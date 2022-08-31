@@ -1,0 +1,4 @@
+Note: images, screenshots, gifs, and videos will only be updated if it has relevant changes that can be seen directly
+
+v1.0.0 (01-09-2022)
+- Initial upload
