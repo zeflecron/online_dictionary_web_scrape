@@ -1,6 +1,8 @@
 # Online Dictionary Web Scrape
 Web scraping an online dictionary called Linguee
 
+The web scraping is specifically only for German verbs (base form)
+
 It is mainly a learning experience on using:
 - a web scraping library (beautiful soup)
 - type hints
